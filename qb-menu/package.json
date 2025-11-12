@@ -1,7 +1,0 @@
-{
-    "shared": [],
-    "client": [
-        "client.lua"
-    ],
-    "server": []
-}
